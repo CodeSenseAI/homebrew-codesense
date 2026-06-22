@@ -1,1 +1,1 @@
-# homebrew-codesense
+# Homebrew tap for CodeSense CLI
